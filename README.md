@@ -1,0 +1,2 @@
+# datascientist-s-salary-prediction
+it is clear that data is the treasure of the current and future world, so the most promising job of the future is data scientist with a current range of 52886.47-70515. 30 USD according to glassdor's estimate, so we want to predict the estimated future salary of next year, to do this we used web scraping to extract glassdor's data scientist salary and predict it with randomforest algorithm, and the estimated salary (range) found: 86630 (USD) to 104630 (USD) per year.
